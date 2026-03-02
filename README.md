@@ -2,3 +2,5 @@
 <p>Several extra maps for Season of Ghosts! Included are preconfigured maps for the following:</p>
 <ul><li><p>6 Player House Options</p></li><li><p>Mothers Coil (Can be used as a player house too)</p></li><li><p>Remade Dawnstep Bridge</p></li><li><p>Eastern Watchtower</p></li><li><p>Matsuki's Estate (with overlay for mist)</p></li><li><p>The Worst Puzzle</p></li></ul>
 <p>Several Macros and Journals are also included for ease of use.</p>
+
+<p>Assets used for these maps are made by the awesome creators at [Forgotten Adventures](www.forgotten-adventures.net), [Crosshead Studios](https://crossheadstudios.com/), and [Tom Cartos](https://www.tomcartos.com/)! Maps were created with [Dungeon Draft](https://dungeondraft.net/)</p>
