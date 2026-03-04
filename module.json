@@ -1,13 +1,13 @@
 {
   "id": "season-of-ghosts-extra-maps",
   "title": "Season of Ghosts Extra Maps",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "13",
     "verified": "13.351"
   },
   "manifest": "https://github.com/Icarus-the-phoenix/season-of-ghosts-extra-maps/releases/latest/download/module.json",
-  "download": "https://github.com/Icarus-the-phoenix/season-of-ghosts-extra-maps/releases/download/1.0.2/module.zip",
+  "download": "https://github.com/Icarus-the-phoenix/season-of-ghosts-extra-maps/releases/download/1.0.3/module.zip",
   "flags": {
     "canUpload": true
   },
@@ -17,9 +17,6 @@
       "sorting": "a",
       "color": "#1b78c9",
       "packs": [
-        "sog-extra-maps-scenes",
-        "sog-extra-maps-macros",
-        "sog-extra-maps-journals",
         "sog-extra-maps-import"
       ],
       "folders": []
