@@ -1,7 +1,3 @@
-2026/05/12-02:11:00.950 73cc Recovering log #311
-2026/05/12-02:11:00.956 73cc Delete type=0 #311
-2026/05/12-02:11:00.956 73cc Delete type=3 #309
-2026/05/12-02:11:05.524 afbc Level-0 table #316: started
-2026/05/12-02:11:05.524 afbc Level-0 table #316: 0 bytes OK
-2026/05/12-02:11:05.527 afbc Delete type=0 #314
-2026/05/12-02:11:05.529 afbc Manual compaction at level-0 from '!adventures!kLEq3Ty82oC9Xkku' @ 72057594037927935 : 1 .. '!adventures!kLEq3Ty82oC9Xkku' @ 0 : 0; will stop at (end)
+2026/05/12-02:13:13.000 a168 Recovering log #315
+2026/05/12-02:13:13.006 a168 Delete type=0 #315
+2026/05/12-02:13:13.006 a168 Delete type=3 #313
