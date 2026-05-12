@@ -1,3 +1,8 @@
-2026/05/12-02:13:13.000 a168 Recovering log #315
-2026/05/12-02:13:13.006 a168 Delete type=0 #315
-2026/05/12-02:13:13.006 a168 Delete type=3 #313
+2026/05/12-16:34:49.039 a414 Log #320: 1 ops saved to Table #321 OK
+2026/05/12-16:34:49.039 a414 Archiving G:\Pathfinder\FoundryData\Data\modules\season-of-ghosts-extra-maps\packs\sog-extra-maps-import/000320.log: OK
+2026/05/12-16:34:49.039 a414 Table #5: 1 entries OK
+2026/05/12-16:34:49.039 a414 Table #25: 1 entries OK
+2026/05/12-16:34:49.039 a414 Table #294: 1 entries OK
+2026/05/12-16:34:49.039 a414 Table #321: 1 entries OK
+2026/05/12-16:34:49.042 a414 Archiving G:\Pathfinder\FoundryData\Data\modules\season-of-ghosts-extra-maps\packs\sog-extra-maps-import/MANIFEST-000319: OK
+2026/05/12-16:34:49.045 a414 **** Repaired leveldb G:\Pathfinder\FoundryData\Data\modules\season-of-ghosts-extra-maps\packs\sog-extra-maps-import; recovered 4 files; 161486 bytes. Some data may have been lost. ****
